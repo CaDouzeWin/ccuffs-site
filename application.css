@@ -1,0 +1,11 @@
+body {
+    width: 100%;
+    
+    max-width: 800px;
+    margin: auto;
+    background: url(fundosite.jpg) center;
+  
+    font-family: 'sens-serife';
+    line-height: 1.5;
+    color: white;
+  }
