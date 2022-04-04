@@ -1,7 +1,11 @@
+html {
+	font-family: 'Open Sans', sans-serif;
+}
+
 body {
-  width: 125%;
+	margin: auto;
+  width: 100%;
   max-width: 1200px;
-  margin: auto;
   background: url(fundosite.jpg) center;
 
   font-family: 'Lato';
@@ -9,28 +13,12 @@ body {
 
   color: white;
 }
-
 main {
-  background: #000000a8;
-  padding: 20px 40px;
-  margin-top:200px;
-  border-radius: 10px;
-}
+	background: #000000de;
+	padding: 40px 80px;
+	margin-top: 300px;
+	border-radius: 30px;
+	
 
-.logo, .Título, .Subtítulo {
-  margin: 0;
-  text-align: center;
-}
+  }
 
-.concerts {
-  margin: 30px 0;
-  text-align: center;
-  width: 100%;
-}
-
-.concerts table {
-  background: #cb3a3ab3;
-  border-radius: 10px;
-  padding: 100px;
-  margin: 0 auto;
-}
