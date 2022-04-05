@@ -18,7 +18,18 @@ main {
 	padding: 40px 80px;
 	margin-top: 300px;
 	border-radius: 30px;
-	
-
-  }
+	 }
+   .quemsou{
+     text-align: justify;
+   }
+   .primeirafoto{
+    margin: auto;
+    width: 50%;
+   }
+   .objetivoprofissional{
+     text-align: justify;
+   }
+   .experienciahtml{
+     text-align: justify;
+   }
 
